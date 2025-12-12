@@ -26,7 +26,7 @@ class ThirdMaxElement
 }
 
 	public static void main(String[] args) {
-		int[]arr={10,20,30,40,50,10};
+		int[]arr={10,20,30,40,50,10,30};
 		System.out.println(test(arr));
 	}
 }
